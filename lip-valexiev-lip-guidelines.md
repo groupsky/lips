@@ -37,7 +37,7 @@ This document describes the process of submitting proposals for improvements in 
 
 # 2. Motivation
 
-The purpose is to have a transparant and efficient mechanism for the lab to evolve and accomodate wider community of people gathering as many great ideas as possible.
+The purpose is to have a transparent and efficient mechanism for the lab to evolve and accommodate wider community of people gathering as many great ideas as possible.
 
 
 # 3. Specification
@@ -204,12 +204,12 @@ If no editor denies the LIP for 48 hours, then one of them will:
 1. Merge the pull request.
 2. Assign a LIP number (usually just the next available number, but sometimes it can be other) and give it status "InVoting".
 3. List the LIP in [lab/lips/README.md](https://github.com/Hackafe/lips/blob/master/README.md).
-4. Officially annaunce the new LIP and next steps in the forum.
+4. Officially announce the new LIP and next steps in the forum.
 
 
 ### 3. LIP Resolution
 
-The official annauncment in the forum starts the voting on the LIP. The lab members have 72 hours to vote in the forum.
+The official announcement in the forum starts the voting on the LIP. The lab members have 72 hours to vote in the forum.
 
 If the majority of the votes support the LIP, then it gets status "Accepted".
 Else it is "Rejected". Perhaps after all is said and done it was not a good idea. It is still important to have a record of this fact.
