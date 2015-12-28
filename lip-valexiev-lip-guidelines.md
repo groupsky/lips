@@ -179,7 +179,7 @@ Once the author has asked the lab community as to whether an idea has any chance
 LIP authors are responsible for collecting community feedback on a LIP before submitting it for review. However, wherever possible, long open-ended discussions on public forums or mailing lists should be avoided. Strategies to keep the discussions efficient include: setting up a separate form thread for the topic, having the LIP author accept private comments in the early design phases, setting up a wiki page or git repository, etc. LIP authors should use their discretion here.
 
 **Step 2: Submit for review**
-When the LIP is ready for the repository, the author should submit it as a "pull request" to the [lab/lips](https://github.com/Hackafe/lips/tree/master/voting) repository on GitHub where it may get further feedback.
+When the LIP is ready for the repository, the author should submit it as a "pull request" to the [lab/lips](https://github.com/Hackafe/lips) repository on GitHub where it may get further feedback.
 
 If the LIP author can not use git yet, then they should send their LIP to lip_dot_editors_at_hackafe_dot_org and a LIP editor will submit it as a "pull requests" for them.
 
