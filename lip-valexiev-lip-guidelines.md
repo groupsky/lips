@@ -42,6 +42,7 @@ The purpose is to have a transparant and efficient mechanism for the lab to evol
 
 # 3. Specification
 
+
 ## 3.1. Terms Definitions
 
 ### What is a LIP?
@@ -66,18 +67,18 @@ There are two kinds of LIP:
 
 Each LIP should have the following parts:
 
-0. **Preamble** -- RFC 822 style headers containing meta-data about the LIP, including the LIP number, a short descriptive title (limited to a maximum of 44 characters), the nicknames, and optionally the contact info for each author, etc.
+0. **Preamble** - RFC 822 style headers containing meta-data about the LIP, including the LIP number, a short descriptive title (limited to a maximum of 44 characters), the nicknames, and optionally the contact info for each author, etc.
 
-1. **Abstract** -- a short (~200 word) description of the issue being addressed.
+1. **Abstract** - a short (~200 word) description of the issue being addressed.
 
-2. **Motivation** -- The motivation is critical for LIPs that want to change the lab's processes. It should clearly explain why the existing process specification is inadequate to address the problem that the LIP solves. LIP submissions without sufficient motivation may be rejected outright.
+2. **Motivation** - The motivation is critical for LIPs that want to change the lab's processes. It should clearly explain why the existing process specification is inadequate to address the problem that the LIP solves. LIP submissions without sufficient motivation may be rejected outright.
 
-3. **Specification** -- The process specification should describe the actors and their actions in the steps of the process.
+3. **Specification** - The process specification should describe the actors and their actions in the steps of the process.
 
-4. **Rationale** -- The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the process works in other labs and OpenSource communities.
+4. **Rationale** - The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the process works in other labs and OpenSource communities.
 The rationale should provide evidence of consensus within the community and discuss important objections or concerns raised during discussion.
 
-5. **Backwards Compatibility** -- All LIPs that introduce backwards incompatibilities must include a section describing these incompatibilities and their severity. The LIP must explain how the author proposes to deal with these incompatibilities. LIP submissions without a sufficient backwards compatibility treatise may be rejected outright.
+5. **Backwards Compatibility** - All LIPs that introduce backwards incompatibilities must include a section describing these incompatibilities and their severity. The LIP must explain how the author proposes to deal with these incompatibilities. LIP submissions without a sufficient backwards compatibility treatise may be rejected outright.
 
 
 #### LIP Head
@@ -148,8 +149,9 @@ Authors MUST NOT self assign numbers, but should use an alias such as "lip-irons
 ### 2. LIP Editors
 
 The LIP editors are individuals responsible for the administrative and editorial aspects of the LIP workflow:
- - They assign LIP numbers and change their status.
- - They correct any structure, grammar, spelling, or markup mistakes we see.
+
+- They assign LIP numbers and change their status.
+- They correct any structure, grammar, spelling, or markup mistakes we see.
 
 A LIP editor must be registered in the forum.
 
@@ -224,10 +226,10 @@ When a LIP status is changed, the Status header and Resolution header must be up
 The  members should be able to define how to lab functions.
 The workflow of gathering proposals, reviewing them and decision-making described in this LIP follow these principles:
 
-  - The process is transparent on every step. All discusions and voting happens in the forum.
-  - There is no single point that can delay or stop the workflow. The LIP editors just help to put the things in order, but they don't judge. The editors are many, while just one is needed. So at any time any editor can do the task.
-  - The times for discussions, review and voting are enough for every interested to participate and in the same time doesn't delay a resolution.
-  - The members interested in a given LIP can participate actively, while the ones who are not - don't need to do anything.
+- The process is transparent on every step. All discusions and voting happens in the forum.
+- There is no single point that can delay or stop the workflow. The LIP editors just help to put the things in order, but they don't judge. The editors are many, while just one is needed. So at any time any editor can do the task.
+- The times for discussions, review and voting are enough for every interested to participate and in the same time doesn't delay a resolution.
+- The members interested in a given LIP can participate actively, while the ones who are not - don't need to do anything.
 
 
 # 5. References and Footnotes
