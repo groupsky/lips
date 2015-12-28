@@ -8,6 +8,7 @@
 
 
 **Content:**
+
 1. Abstract
 2. Motivation
 3. Specification
@@ -186,9 +187,10 @@ If the LIP author can not use git yet, then they should send their LIP to lip_do
 Once a "pull request" is submitted, the LIP editors have 48 hours to review the LIP.
 
 For each new LIP that comes in the editors do the following:
+
 1. Read the LIP to check if it is ready: sound and complete.
-  1.1. The ideas must make practical sense, even if they don't seem likely to be accepted.
-  1.2. The title should accurately describe the content.
+ - The ideas must make practical sense, even if they don't seem likely to be accepted.
+ - The title should accurately describe the content.
 2. Edit the LIP for language (spelling, grammar, sentence structure, etc.), markup.
 
 The LIP must be written in LIP style as described in this LIP, else an editor will send it back without further regard until proper formatting rules are followed.
@@ -196,6 +198,7 @@ The LIP must be written in LIP style as described in this LIP, else an editor wi
 The LIP editors will not unreasonably deny a LIP. Reasons for denying LIP status include duplication of effort, being practically unsound, not providing proper motivation or addressing backwards compatibility, or not in keeping with the lab philosophy.
 
 If no editor denies the LIP for 48 hours, then one of them will:
+
 1. Merge the pull request.
 2. Assign a LIP number (usually just the next available number, but sometimes it can be other) and give it status "InVoting".
 3. List the LIP in [lab/lips/README.md](https://github.com/Hackafe/lips/blob/master/README.md).
@@ -220,10 +223,11 @@ When a LIP status is changed, the Status header and Resolution header must be up
 
 The  members should be able to define how to lab functions.
 The workflow of gathering proposals, reviewing them and decision-making described in this LIP follow these principles:
- - The process is transparent on every step. All discusions and voting happens in the forum.
- - There is no single point that can delay or stop the workflow. The LIP editors just help to put the things in order, but they don't judge. The editors are many, while just one is needed. So at any time any editor can do the task.
- - The times for discussions, review and voting are enough for every interested to participate and in the same time doesn't delay a resolution.
- - The members interested in a given LIP can participate actively, while the ones who are not - don't need to do anything.
+
+  - The process is transparent on every step. All discusions and voting happens in the forum.
+  - There is no single point that can delay or stop the workflow. The LIP editors just help to put the things in order, but they don't judge. The editors are many, while just one is needed. So at any time any editor can do the task.
+  - The times for discussions, review and voting are enough for every interested to participate and in the same time doesn't delay a resolution.
+  - The members interested in a given LIP can participate actively, while the ones who are not - don't need to do anything.
 
 
 # 5. References and Footnotes
