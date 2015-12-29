@@ -223,10 +223,10 @@ When a LIP status is changed, the Status header and Resolution header must be up
 
 # 4. Rationale
 
-The  members should be able to define how to lab functions.
+The  members should be able to define how the lab functions.
 The workflow of gathering proposals, reviewing them and decision-making described in this LIP follow these principles:
 
-- The process is transparent on every step. All discusions and voting happens in the forum.
+- The process is transparent on every step. All discusions and voting happen in the forum.
 - There is no single point that can delay or stop the workflow. The LIP editors just help to put the things in order, but they don't judge. The editors are many, while just one is needed. So at any time any editor can do the task.
 - The times for discussions, review and voting are enough for every interested to participate and in the same time doesn't delay a resolution.
 - The members interested in a given LIP can participate actively, while the ones who are not - don't need to do anything.
