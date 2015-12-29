@@ -1,6 +1,7 @@
 ```
   LIP:
   Title: LIP Purpose and Guidelines
+  Discussions: http://frm.hackafe.org/t/lip-lip-purpose-and-guidelines/441
   Status: Draft
   Type:
   Created: 2015-12-25
