@@ -1,8 +1,8 @@
 ```
-  LIP: 1
+  LIP:
   Title: LIP Purpose and Guidelines
-  Status: Active
-  Type: Process
+  Status: Draft
+  Type:
   Created: 2015-12-25
 ```
 
